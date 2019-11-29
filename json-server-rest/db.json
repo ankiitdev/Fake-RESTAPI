@@ -1,0 +1,14 @@
+{
+  "user":[
+    {
+      "id": 0,
+      "name": "Ankit",
+      "email": "ankiit@gmail.com",
+	  "age": 27,
+	  "topics": [
+	    "android",
+		"rest"
+	  ]
+    }
+  ]
+}
